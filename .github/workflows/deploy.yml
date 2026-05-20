@@ -26,6 +26,6 @@ jobs:
 
           protocol: ftps
           local-dir: ./
-          server-dir: /
+          server-dir: ./
 
           dangerous-clean-slate: true
